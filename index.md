@@ -26,9 +26,10 @@ For any questions, my email is [gndokaj@vassar.edu](mailto:gndokaj@vassar.edu)
 
 - Commutative algebra and algebraic combinatorics
 
-## Projects
+## Projects/Research
 
-- Work in progress...
+- Working jointly with Prof A. Seceleanu from University of Nebraska-Lincoln on Binomial Edge Ideals.
+- Back on campus, I do research in Chaos Theory advised by and with Susannah Zhang, PhD @ Vassar College.
 
 ## Misc.
 
