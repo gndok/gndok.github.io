@@ -2,13 +2,9 @@
 
 Hi! I am an 3rd year undergraduate mathematics student at Vassar College. Broadly, I am interested in algebra, especially commutative algebra and algebraic combinatorics. I am also fond of graph theory, fractal geometry, algebraic geometry, dynamical systems, and chaos theory!
 
-You can find my CV [here](ndokaj-cv-aug26.pdf).
+You can find my CV [here](ndokaj-cv-aug26.pdf), and my LinkedIn [here.](www.linkedin.com/in/gasperndokaj)
 
-Email: [gndokaj@vassar.edu](mailto:gndokaj@vassar.edu)
-
-[GitHub](https://github.com/gndok)
-
-[LinkedIn](www.linkedin.com/in/gasperndokaj)
+For any questions, my email is [gndokaj@vassar.edu](mailto:gndokaj@vassar.edu)
 
 ## Presentations/Conference Talks
 
