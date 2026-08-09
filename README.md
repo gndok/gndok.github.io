@@ -2,7 +2,7 @@
 
 Just source code for my academic stuff.
 
-**Live site:** https://gndokaj.github.io
+**Live site:** https://gndok.github.io
 
 ## About
 
