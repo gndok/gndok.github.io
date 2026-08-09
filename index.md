@@ -6,9 +6,9 @@ You can find my CV [here](ndokaj-cv-aug26.pdf).
 
 Email: [gndokaj@vassar.edu](mailto:gndokaj@vassar.edu)
 
-[GitHub:](https://github.com/gndok)
+[GitHub](https://github.com/gndok)
 
-[LinkedIn:](www.linkedin.com/in/gasperndokaj)
+[LinkedIn](www.linkedin.com/in/gasperndokaj)
 
 ## Presentations/Conference Talks
 
