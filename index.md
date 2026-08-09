@@ -28,7 +28,7 @@ For any questions, my email is [gndokaj@vassar.edu](mailto:gndokaj@vassar.edu)
 
 ## Projects/Research
 
-- Working jointly with Prof A. Seceleanu from University of Nebraska-Lincoln on Binomial Edge Ideals.
+- Working jointly with Prof A. Seceleanu from University of Nebraska-Lincoln on Binomial Edge Ideals alongside other members of my Polymath Jr. cohort.
 - Back on campus, I do research in Chaos Theory advised by and with Susannah Zhang, PhD @ Vassar College.
 
 ## Misc.
