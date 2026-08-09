@@ -10,11 +10,15 @@ Email: [gndokaj@vassar.edu](mailto:gndokaj@vassar.edu)
 
 ## Presentations/Conference Talks
 
-- **Binomial Edge Ideals**, Polymath Jr. Conference, August 2026.  
+- **Binomial Edge Ideals**, <span style="font-size: 0.85em; color: #a8a8a8;">
+    Polymath Jr. Conference, August 2026
+  </span>  
   Joint presentation with Shantanu Chakraborty, Ilya Galushkin, and Dragos Gligor.  
   [Slides (PDF)](slides/binomial-edge-ideals-polymath-2026.pdf)
 
-- **Iterated Function Systems and Hutchinson's Theorem**, Hudson River Undergraduate Mathematics Conference, April 2026.
+- **Iterated Function Systems and Hutchinson's Theorem**,<span style="font-size: 0.85em; color: #a8a8a8;">
+    Hudson River Undergraduate Mathematics Conference, April 2026
+  </span> 
   Joint presentation with Henry Bonney and Jay Chen.  
   [Slides (PDF)](slides/hutchinson-theorem-fractals.pdf)
 
