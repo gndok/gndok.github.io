@@ -17,7 +17,7 @@ Email: [gndokaj@vassar.edu](mailto:gndokaj@vassar.edu)
   Joint presentation with Shantanu Chakraborty, Ilya Galushkin, and Dragos Gligor.  
   [Slides (PDF)](slides/bei.pdf)
 
-- **Iterated Function Systems and Hutchinson's Theorem**\
+- **Iterated Function Systems and Hutchinson's Theorem**
 
   Hudson River Undergraduate Mathematics Conference, April 2026
   
