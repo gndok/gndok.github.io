@@ -1,4 +1,4 @@
-# Gasper Ndokaj— Personal Website
+# Gasper Ndokaj — Personal Website
 
 Just source code for my academic stuff.
 
