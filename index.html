@@ -3,75 +3,167 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Your Name</title>
+  <title>Gasper Ndokaj</title>
 
   <style>
-    body {
-      max-width: 760px;
-      margin: 70px auto;
-      padding: 0 24px;
-      font-family: Georgia, "Times New Roman", serif;
-      font-size: 18px;
-      line-height: 1.65;
-      color: #111;
+    * {
+      box-sizing: border-box;
     }
 
-    h1 {
-      font-size: 2rem;
-      font-weight: normal;
-      margin-bottom: 1.4rem;
+    body {
+      max-width: 900px;
+      margin: 55px auto;
+      padding: 0 28px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 14px;
+      line-height: 1.45;
+      color: #555;
+    }
+
+    .layout {
+      display: grid;
+      grid-template-columns: 260px 1fr;
+      gap: 55px;
+      align-items: start;
+    }
+
+    .sidebar h1 {
+      margin: 0 0 18px;
+      font-size: 25px;
+      line-height: 1.2;
+      color: #2874b9;
+    }
+
+    .profile-photo {
+      width: 220px;
+      height: 220px;
+      object-fit: cover;
+      border-radius: 50%;
+      display: block;
+      margin-bottom: 18px;
+    }
+
+    h2 {
+      margin: 0 0 12px;
+      font-size: 19px;
+      color: #333;
+    }
+
+    h3 {
+      margin: 25px 0 8px;
+      font-size: 17px;
+      color: #333;
+    }
+
+    p {
+      margin: 0 0 15px;
+    }
+
+    ul {
+      margin: 0;
+      padding-left: 20px;
+    }
+
+    li {
+      margin-bottom: 7px;
     }
 
     a {
-      color: #0645ad;
+      color: #2874b9;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .small {
+      font-size: 13px;
+    }
+
+    @media (max-width: 700px) {
+      body {
+        margin: 30px auto;
+      }
+
+      .layout {
+        grid-template-columns: 1fr;
+        gap: 25px;
+      }
+
+      .profile-photo {
+        width: 180px;
+        height: 180px;
+      }
     }
   </style>
 </head>
-<h2>Talks</h2>
-
-<ul>
-  <li>
-    <strong>Iterated Function Systems and Hutchinson’s Theorem</strong><br>
-    Hudson River Undergraduate Mathematics Conference, April 25, 2026<br>
-    Group presentation with Henry Bonney and Jay Chen.<br>
-    <a href="slides/hutchinsons-thm.pdf" target="_blank">
-      View slides (PDF)
-    </a>
-  </li>
-
-  <li>
-    <strong>Binomial Edge Ideals</strong><br>
-    Polymath Jr. Conference, August 8, 2026.<br>
-    Group presentation with Shantanu Chakraborty, Ilya Galushkin,
-    and Dragos Gligor.<br>
-    <a href="slides/bei.pdf" target="_blank">
-      View slides (PDF)
-    </a>
-  </li>
-</ul>
 
 <body>
-  <h1>Gasper Ndokaj</h1>
+  <main class="layout">
 
-  <p>
-    Hi! I am an undergraduate mathematics student at Vassar College.
-    Broadly, I am interested in algebra, specifically commutative algebra and algebraic combinatorics. 
-  </p>
+    <aside class="sidebar">
+      <h1>Gasper Ndokaj</h1>
 
-  <p>
-    You can find my <a href="ndokaj-cv-aug26.pdf">CV here</a>.
-  </p>
+      <!-- Upload an image named profile.jpg, or remove this line. -->
+      <img class="profile-photo" src="profile.jpg" alt="Portrait of Gasper Ndokaj">
 
-  <p>
-    Email: <a href="mailto:gndokaj@vassar.edu">
-      gndokaj@vassar.edu
-    </a>
-  </p>
+      <p class="small">
+        <a href="mailto:gndokaj@vassar.edu">gndokaj@vassar.edu</a>
+      </p>
 
-  <p>
-    <a href="notes.html">Notes</a> ·
-    <a href="projects.html">Talks + Projects</a> ·
-    <a href="https://github.com/gndok">GitHub</a>
-  </p>
+      <p class="small">
+        <a href="https://github.com/gndokaj">View My GitHub Profile</a>
+      </p>
+
+      <!-- Upload cv.pdf to use this link. -->
+      <p class="small">
+        <a href="cv.pdf" target="_blank">View my CV</a>
+      </p>
+    </aside>
+
+    <section>
+      <h2>About</h2>
+
+      <p>
+        Hi! I am a 3rd year math student at Vassar College. Broadly speaking,
+        I am interested in algebra and combinatorics, specifically commutative algebra and algebraic combinatorics. I am also interested in dynamical systems, fractal geometry, algebraic geometry, and chaos theory.
+      </p>
+
+      <h3>Presentations</h3>
+      <ul>
+        <li>
+          <strong>Binomial Edge Ideals</strong>,
+          Polymath Jr. Conference, August 2026.
+          Group presentation with Shantanu Chakraborty, Ilya Galushkin, and Dragos Gligor
+          <a href="slides/bei.pdf"
+             target="_blank">Slides (PDF)</a>
+        </li>
+
+        <li>
+          <strong>Iterated Function Systems and Hutchinson’s Theorem</strong>,
+          Hudson River Undergraduate Mathematics Conference, April 2026.
+          Group presentation with Henry Bonney and Jay Chen
+          <a href="slides/hutchinsons-thm.pdf"
+             target="_blank">Slides (PDF)</a>
+        </li>
+      </ul>
+
+      <h3>Research Interests</h3>
+      <ul>
+        <li>Commutative algebra and algebraic combinatorics</li>
+      </ul>
+
+      <h3>Projects</h3>
+      <ul>
+      </ul>
+
+      <h3>Misc.</h3>
+      <ul>
+        <li><a href="https://github.com/gndokaj">GitHub</a></li>
+      </ul>
+    </section>
+
+  </main>
 </body>
 </html>
