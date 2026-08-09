@@ -14,7 +14,7 @@ Email: [gndokaj@vassar.edu](mailto:gndokaj@vassar.edu)
   Joint presentation with Shantanu Chakraborty, Ilya Galushkin, and Dragos Gligor.  
   [Slides (PDF)](slides/binomial-edge-ideals-polymath-2026.pdf)
 
-- **Iterated Function Systems and Hutchinson's Theorem**.  
+- **Iterated Function Systems and Hutchinson's Theorem**, Hudson River Undergraduate Mathematics Conference, April 2026.
   Joint presentation with Henry Bonney and Jay Chen.  
   [Slides (PDF)](slides/hutchinson-theorem-fractals.pdf)
 
