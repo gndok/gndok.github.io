@@ -12,15 +12,13 @@ For any questions, my email is [gndokaj@vassar.edu](mailto:gndokaj@vassar.edu)
 
   Polymath Jr. Conference, August 2026
   
-  Joint presentation with Shantanu Chakraborty, Ilya Galushkin, and Dragos Gligor.  
-  [Slides (PDF)](slides/bei.pdf)
+  Joint presentation with Shantanu Chakraborty, Ilya Galushkin, and Dragos Gligor.
 
 - **Iterated Function Systems and Hutchinson's Theorem**
 
   Hudson River Undergraduate Mathematics Conference, April 2026
   
   Joint presentation with Henry Bonney and Jay Chen.  
-  [Slides (PDF)](slides/hutchinsons-thm.pdf)
   
   [HRUMC program](https://drive.google.com/file/d/1bnl3YIZApKQa7YklzJGbAxD9Qz47v8Ts/view)
 
