@@ -36,8 +36,4 @@ For any questions, my email is [gndokaj@vassar.edu](mailto:gndokaj@vassar.edu)
 - I listen to a lot of emo and hardcore music, in fact, I run a radio show at Vassar College with WVKR where I (mostly) play emo called [Emo Over The Years](https://spinitron.com/WVKR/show/291477/Emo-Over-the-Years?layout=1). Check it out!
 - I also read a lot of manga and tend to watch quite a bit of anime. My favorite anime is [Mawaru Penguindrum](https://myanimelist.net/anime/10721/Mawaru_Penguindrum) and my favorite manga is [Land of the Lustrous!](https://myanimelist.net/manga/44489/Houseki_no_Kuni)
 
-<script
-  type="text/javascript"
-  id="mapmyvisitors"
-  src="//mapmyvisitors.com/map.js?d=jXxFopiMgOLxQEPX8cMgQDIq-YE-6vzhJ-qv_1xk3fE&cl=ffffff&w=a">
-</script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=150&t=n&d=jXxFopiMgOLxQEPX8cMgQDIq-YE-6vzhJ-qv_1xk3fE&co=000000&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
