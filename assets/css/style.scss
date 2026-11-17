@@ -10,6 +10,12 @@ header img {
   border-radius: 50%;
 }
 
+header > p:first-of-type {
+  text-align: center;
+  font-size: 12px;
+  line-height: 1.4;
+}
+
 body {
   background-color: #121212;
   color: #d7d7d7;
