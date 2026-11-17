@@ -1,12 +1,25 @@
 ## About
 
-Hi! I am an 3rd year undergraduate mathematics student at Vassar College. Broadly, I am interested in algebra, especially commutative algebra and algebraic combinatorics. I am also fond of graph theory, fractal geometry, algebraic geometry, dynamical systems, and chaos theory!
+Hi! I am an 3rd year undergraduate mathematics student at Vassar College. Broadly, I am interested in algebra and dynamical systems, specifically: commutative algebra, algebraic geometry, and dynamical billiards!
 
-You can find my CV [here](CV_2026.pdf), and my LinkedIn [here.](https://www.linkedin.com/in/gasperndokaj)
+You can find my CV [here](CV_2026-4.pdf), and my LinkedIn [here.](https://www.linkedin.com/in/gasperndokaj)
 
 For any questions, my email is [gndokaj@vassar.edu](mailto:gndokaj@vassar.edu)
 
-## Presentations/Conference Talks
+## Presentations/Posters
+
+- **Binomial edge ideals and the Lefschetz properties for certain graph families**
+
+  Advances in Interdisciplinary Statistics and Combinatorics (AISC), University of Louisiana-Lafayette, October 2026
+  
+  Oral presentation and poster presentation given, granted 3rd place in the undergraduate poster session competition
+  ![Me and my poster!](./assets/logo.png)
+
+- **Binomial edge ideals and the Lefschetz properties for certain graph families**
+
+  Undergraduate Mathematics Symposium, University of Illinois-Chicago, November 2026
+  
+  Joint poster presentation with Ilya Galushkin (who sadly was not able to make it, but we applied together so I'm including him!)
 
 - **Binomial Edge Ideals**
 
@@ -16,11 +29,10 @@ For any questions, my email is [gndokaj@vassar.edu](mailto:gndokaj@vassar.edu)
 
 - **Iterated Function Systems and Hutchinson's Theorem**
 
-  Hudson River Undergraduate Mathematics Conference, April 2026
+  Hudson River Undergraduate Mathematics Conference, Vassar College, April 2026
   
   Joint presentation with Henry Bonney and Jay Chen.  
   
-  [HRUMC program](https://drive.google.com/file/d/1bnl3YIZApKQa7YklzJGbAxD9Qz47v8Ts/view)
 
 ## Research Interests
 
@@ -29,7 +41,6 @@ For any questions, my email is [gndokaj@vassar.edu](mailto:gndokaj@vassar.edu)
 ## Projects/Research
 
 - Working jointly with Prof A. Seceleanu from University of Nebraska-Lincoln on Binomial Edge Ideals alongside other members of my Polymath Jr. cohort.
-- Back on campus, I do research in Chaos Theory advised by and with Susannah Zhang, PhD @ Vassar College.
 
 ## Misc.
 
