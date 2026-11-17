@@ -41,6 +41,7 @@ For any questions, my email is [gndokaj@vassar.edu](mailto:gndokaj@vassar.edu)
 ## Projects/Research
 
 - Working jointly with Prof A. Seceleanu from University of Nebraska-Lincoln on Binomial Edge Ideals alongside other members of my Polymath Jr. cohort.
+- Working with Manohar Kumar, PhD in a directed reading program on Lovász-Saks-Schijver ideals and parity binomial edge ideals, under the Twoples DRP. 
 
 ## Misc.
 
