@@ -27,7 +27,7 @@ For any questions, my email is [gndokaj@vassar.edu](mailto:gndokaj@vassar.edu)
   
   Joint presentation with Shantanu Chakraborty, Ilya Galushkin, and Dragos Gligor.
 
-- **Iterated Function Systems and Hutchinson's Theorem**
+- **Hutchinson's theorem for existence and uniqueness of fractals**
 
   Hudson River Undergraduate Mathematics Conference, Vassar College, April 2026
   
