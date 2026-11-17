@@ -4,16 +4,20 @@
 @import "{{ site.theme }}";
 
 header img {
+  display: block;
   width: 220px;
   height: 220px;
   object-fit: cover;
   border-radius: 50%;
+  margin: 0 auto 10px;
 }
 
 header > p:first-of-type {
   text-align: center;
   font-size: 12px;
   line-height: 1.4;
+  margin-top: 0;
+  margin-bottom: 20px;
 }
 
 body {
