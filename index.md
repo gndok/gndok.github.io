@@ -1,6 +1,6 @@
 ## About
 
-Hi! I am an 3rd year undergraduate mathematics student at Vassar College. Broadly, I am interested in algebra and dynamical systems, specifically: commutative algebra, algebraic geometry, and dynamical billiards!
+Hi! I am an 3rd year undergraduate mathematics student at Vassar College. Broadly, I am interested in algebra broadly, specifically commutative algebra, algebraic geometry, and algebraic combinatorics. I am also a fan of dynamical systems, specifically ergodic theory and dynamical billiards (with a focus in Teichmüller theory)
 
 You can find my CV [here](CV_2026-4.pdf), and my LinkedIn [here.](https://www.linkedin.com/in/gasperndokaj)
 
@@ -13,7 +13,7 @@ For any questions, my email is [gndokaj@vassar.edu](mailto:gndokaj@vassar.edu)
   Advances in Interdisciplinary Statistics and Combinatorics (AISC), University of Louisiana-Lafayette, October 2026
   
   Oral presentation and poster presentation given, granted 3rd place in the undergraduate poster session competition
-  ![Me and my poster!](./assets/logo.png)
+  ![Me and my poster!](./me_and_poster.jpeg "poster...")
 
 - **Binomial edge ideals and the Lefschetz properties for certain graph families**
 
